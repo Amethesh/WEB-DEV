@@ -1,0 +1,2017 @@
+Create Simple website with 5 pages (Home, About, Gallery, Course, Contact).
+Gallery and contact page with contact us form is must.
+
+Website creation for different applications (E-Books, Exam registration
+processing, Student information system, product advertisement details etc.,)
+
+Create a web page with the following using HTML
+
+4 i) To embed an image map in a web page ii) To fix the hot spots iii)
+Show all the related information when the hot spots are clicked.
+
+3 Create a web page with all types of Cascading style sheets.
+
+4 | Write a JavaScript to design a simple calculator to perform the following
+operations: sum, product, difference and quotient.
+
+5 | Client Side Scripts for Validating Web Form Controls using DHTML
+
+6 Find the Factorial of a Number(PHP/JavaScript)
+
+7 Display the Multiplication Table(PHP/JavaScript)
+
+8 to Check Armstrong Number(PHP/JavaScript)
+
+9 to Find the Sum of Natural Numbers(PHP/JavaScript)
+
+10 | to Check Whether a String is Palindrome or Not(PHP/JavaScript)
+
+11
+
+to Reverse a String(PHP/JavaScript)
+
+EX.NO.01 CREATING A SIMPLE WEBSITE WITH 5 PAGES USING HTML
+
+AIM:
+To create a simple website using HTML which includes the following pages:
+
+i) Home
+ii) About
+iii) Gallery
+iv) Course
+v) Contact
+
+ALGORITHM:
+
+1) Open notepad or any text editor and type your HTML program.
+
+2) Here, 6 HTML files are needed and use appropriate tags as required to create the website.
+3) Set the font face, size and colour in the font tag.
+
+4) Set the background colour in the body tag.
+
+5) Get the image and link it to the package.
+
+6) Use horizontal row, table and list tags wherever needed.
+
+7) Save the files with .html extension.
+
+8) Run the program in the Web Browser.
+
+RESULT:
+
+Thus a simple website with home, about, gallery, course and contact pages using HTML was
+created and executed successfully.
+
+EX.NO.01 CREATING A SIMPLE WEBSITE WITH 5 PAGES
+
+PROGRAM:
+Main.html
+<html>
+<head>
+<meta charset="utf-§">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title=>Main page</title>
+<hl><hr><center>X Y Z COLLEGE OF ENGINEERING</center><hr></h1>
+</head>
+<body bgcolor = "white">
+<font face="Arial Black" size="3">
+<table border="1" cellspacing="2" cellpadding="5" width="100%">
+<tr>
+<td align="center"><a href="home.html" target="des_page">Home</a></td>
+<td align="center"><a href="about.html" target="des_page">About</a></td>
+<td align="center"><a href="gallery.html" target="des_page">Gallery</a></td>
+<td align="center" ><a href="course.html" target="des_page">Course</a></td>
+<td align="center"><a href="contact.html" target="des_page">Contact</a></td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+Home.html
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home</title>
+<font face = "Times New Roman" color = "Green" align = "center">
+<hr><hl><b>XY Z COLLEGE OF ENGINEERING<hr></b></h1>
+</head>
+<body align = "center" bgcolor = "silver">
+<img src = "admin. jpg">
+<p><b>"ADMISSION WILL BE GRANTED ON MERIT BASIS" </b></p>
+<table>
+<font color = "navy" face = "Times New Roman" size = "5">
+<tr><bx<u>UG Programmmes:-</u></b><br></tr></font>
+<font color = "black" face = "Times New Roman" size = "4">
+<tr><br>
+<li=B.E. Mechanical Engineering</li>
+<li>B.E. Electrical and Electronics Engineering</li>
+<li=B.E. Electronics and Communication Engineering</li>
+<li=B.E. Computer Science and Engineering</li>
+<li=B. Tech. Information Technology</li>
+<li>B.Tech Artificial Intelligence and Data Science</li>
+<li=B.E. Automobile Engineering</li><br>
+</tr></font>
+<font color = "navy" face = "Times New Roman" size = "5">
+<tr=<b><u>PG Programmmes:-</u></b><br></tr></font>
+<font color = "black" face = "Times New Roman" size = "4">
+<tr=<br>
+<li=Master of Business Administration</li>
+<li=Master of Computer Applications</li>
+<li=M.E. Communication Systems</li>
+<li=ML.E. Software Engineering</li>
+<li=M.E. Embedded Systems</li>
+<li=M.Sc. Cyber Forensics & Information Security</li>
+<li=M. Sc. Geoinformatics</li>
+</tr>
+</font>
+</table><br><br>
+<marquee>Application for B.E/B.Tech Admissions 2023-24 for HSC Students (Starts on 8.5.2023 )</marquee>
+</body>
+
+</html>
+About.html
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title=About</title>
+<font face = "Times New Roman" color = "red">
+<h2><hr>Welcome to XYZ College of Engineering</h2></hr>
+</font>
+</head>
+<body align = "justify" bgcolor = "silver">
+<font face = "Times New Roman" size = "4" color = "black">
+<hr><p><b><u>About</u></b><br>
+XYZ aims at creating quality professionals to meet the emerging industrial and social
+needs through innovative teaching, applied research and industrial interaction. The
+institution has fourteen academic departments (offering seven UG and PG programmes),
+five nodal research centers, Incubation center and more than thirty laboratories aiding
+hands-on learning of products and system building. Each course is designed to have balance
+depth of conceptual and Technical knowledge along with practical understanding.<br><br>
+<u=<b>Vision</b></u><br>
+To provide affordable quality education, while equipping students with knowledge and skills
+in their chosen stream, inculcate values, identify hidden talents, provide opportunities for
+students to realize their full potential and thus shape them into future leaders,
+entrepreneurs and above all good human beings.<br><br>
+<u><bzMission</b></u><br>
+To strive for quality education in keeping with the motto of the college, “Excellence in Education”
+and prepare young minds for imbibing knowledge, skills and sensitivity.</p></hr>
+</body>
+
+</html>
+Gallery.html
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gallery</title>
+
+</head>
+
+<body align = "center" bgcolor = "silver">
+<font face = "Times New Roman" size = "5" color = "black">
+<hrz<pz<u-Classroom-</u></p>
+<img src = "class.jpg" width = "700" height = "500"/><br><hr>
+<hr><p><u>Computer Science Laboratory</u></p>
+<img src = "Computer-Lab.jpg"/><br><hr>
+<hr><p=><uzElectronics Laboratory</u></p>
+<img src = "electronics_lab.jpg"/><br><hr>
+<hr><p><u>Table-Tennis Court</u></p>
+<img src = "sports3.jpg"/><br><hr>
+
+</font>
+
+</body>
+
+</html>
+
+Course.html
+
+<html>
+
+<title>Course</title>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<hr><font color = "blue" face = "Times New Roman" size = "4">
+<th><h1>Offered Courses</h1></th>
+
+</hr></font>
+
+</head>
+
+<body bgcolor = "silver"
+
+<table>
+<font color = "navy" face = "Times New Roman" size = "5">
+
+<tr=<b><u=UG and PG Programmmes:-</u></b><br></tr></font>
+<font color = "black" face = "Times New Roman" size = "4">
+
+<tr><br>
+
+</tr>
+
+<li=B.E. Mechanical Engineering</li>
+
+<li=B.E. Electrical and Electronics Engineering</li>
+<li>B.E. Electronics and Communication Engineering </li>
+<li>B.E. Computer Science and Engineering</li>
+
+<1i>B. Tech. Information Technology</li>
+
+<li>B.Tech Artificial Intelligence and Data Science</li>
+
+<li=B.E. Automobile Engineering</li>
+
+<tr><br>
+
+</tr>
+</font>
+</table>
+</body>
+<hr></hr>
+
+</html>
+
+<li>Master of Business Administration</li>
+<li=Master of Computer Applications</li>
+
+<li=M.E. Communication Systems</li>
+
+<li=ML.E. Software Engineering</li>
+
+<li=M.E. Embedded Systems</li>
+
+<li=M.Sc. Cyber Forensics & Information Security</li>
+
+<li>M.Se. Geoinformatics</li>
+Contact.html
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<hr=<hl><b><u>Contact:</u></b></h1>
+<title>Contact</title>
+</head>
+<body bgcolor = "silver">
+<h3><b>College Address:</b></h3>
+<ul><u=Postal Address</u>
+<br=X'Y Z COLLEGE OF ENGINEERING
+<br=XXX city, YYY District,
+<br=Tamilnadu, INDIA.
+</ul>
+<ul><u>Phone Number</u>
+<br>+91-452-2485657
+<br>+91-452-2487565
+
+</ul>
+
+<ul><u=Email ID</u=
+<br>query@ x yzce.edu
+
+</ul>
+
+<ul><u>Website URL</u>
+<br>http://www.xyzce.edu
+</ul>
+<hr>
+</body>
+
+</html>
+XY Z COLLEGE OF ENGINEERING
+
+Home amour I Gallery | Course Contast |
+
+Home page:
+
+About page:
+
+Welcome to XYZ Cullege of Engineering
+
+Gallery page:
+
+EX.NO.02 CREATING A WEBPAGE OF IMAGE MAPPING USING HTML
+
+AIM:
+
+To create a web page with the following using HTML:
+
+)
+
+To embed an image map in a web page.
+
+it) To fix the hot spots.
+iii) Show all the related information when the hot spots are clicked.
+
+ALGORITHM:
+
+D
+2)
+3)
+4)
+
+5)
+6)
+7)
+8)
+9)
+
+Open notepad or any text editor and type your HTML program.
+
+Here, 4 HTML files are needed and use appropriate tags as required to create the website.
+Create a HTML file with map tag.
+
+Set the source attribute of the img tag to the location of the image and also set the use map
+attribute.
+
+Specify an area with name, shape and href set to the appropriate values.
+
+Get the India map image and link it to the package.
+
+Fix the hotspots in that image.
+
+Map the reference of the hotspots in the image.
+
+Save the files with .html extension.
+
+10) Run the program in the Web Browser.
+
+RESULT:
+
+Thus the creation of a web page which includes a map and display the related information when
+a hot spot is clicked in the map was executed successfully.
+
+EX.NO.02 CREATING A WEBPAGE OF IMAGE MAPPING
+
+PROGRAM:
+Indiamap.html
+<IDOCTYPE html>
+<html>
+<body>
+<h1>INDIA MAP</hl>
+<p>Click on the Hotspots to go to a new page and read more about the Places: </p>
+<img sre="india.jpg" alt="Workplace" usemap="#workmap" width="209" height="242">
+<map name="workmap">
+<area shape="rect" coords="83,41,57,63" alt="delhi" href="delhi.html">
+<area shape="rect" coords="149,129,124 83" alt="calcutta" href="calcutta.html">
+<area shape="rect" coords="89,184,56.226" alt="tamilnadu" href="tamilnadu.html">
+</map>
+<p>India is the Seventh Largest country in the world by geographical area, the second most populous
+country with over 1.2 billion people, and the most populous democracy in the world. India is a federal
+constitutional Republic with a parliamentry democracy consisting of 28 states and 7 Union
+Terrirories. </p>
+<h2>Features</h2>
+<ul>
+<li=<b=Population</b> - 1,028,610,328 (2001 census).
+<li=<b>Capital </b> - New Delhi
+<liz=<b>Largest City </b> - Mumbai
+<liz<b>Currency </b> - Indian Rupee.
+<liz<b>Time Format</b> - IST (UTC + 5:30)
+<liz=<b>National Sport </b> - Hockey
+<liz<b>Current PM </b> - Manmohan Singh
+<liz<b>Current President </b> - Prathiba Patil
+</ul>
+<h2><b>To view the details of states please click on the specified area in the map!!</b></h2>
+<h3><b>(Here the fixed hotspots are Tamilnadu, Delhi and Kolkata)</b></h3>
+</body>
+
+</html>
+Tamilnadu.html
+
+<html>
+
+<body bgeolor="skyblue">
+
+<font face="Times New Roman" size="4" color="black">
+
+<hl><b><center>Tamil Nadu</center></b></hl>
+
+<h3:>Tamilnadu is one of the 28 states of India. Its capital and largest city is Chennai. Tamil Nadu lies in the
+southernmost part of the Indian Peninsula and is bordered by the States of Puducherry, Kerala,
+Karnataka and Andhra Pradesh. It is bound by the Eastern Ghats in the north, the Nilgiri, the
+Anamalai Hills, and Palakkad on the west, by the Bay of Bengal in the east, the Gulf of Mannar, the
+Palk Strait in the south east, and by the Indian Ocean in the south. More IT companies are camped at
+Chennai.</h3>
+
+<h3>
+
+<ol>
+
+<li><i>Districts </i> - 32
+
+<li><i>Capital City </i> - Chennai
+
+<li»<i>Largest City </i> - Chennai
+
+<li=<i>Governor </i> - Shri Konijeti Rosaiah.
+
+<li=<i=Chief Minister</i> - Mrs. J. Jayalalitha
+
+<li=<i=Popultation </i> - 66,396,000
+
+<liz<i>Dance </i> - Bharthanatyam
+
+<liz<i>Festivals</i> - Pongal, Alanganallur Jallikattu etc.,
+
+<li><i>Cuisine </i> - Dosai, Adai, Idly. Vadai, Pongal, Appam(Aappam), Paniyaram, Puttu(Pittu),
+Uppumavu(Uppuma), Santhakai(Noodles), Idiyappam and Uthappam.
+
+<li=<i>Tourist spots </i>
+
+<ul>
+
+<li=Mamallapuram (Shore Temple)
+
+<li=Brihadeeshwara Temple
+
+<li=Ooty
+
+<li=Kodaikanal.
+
+<li=Kanyakumari. (Thiruvalluvar statue etc.,)
+
+<liMarina Beach(chennai)
+
+<li=Madurai Meenakshi Amman Temple.
+
+<li=Thanjavur.
+
+<li»Velankanni.
+<li>Rameswaram.
+
+</ul>
+
+</ol>
+
+<a href="Indiamap.html">Home</a>
+
+</font>
+
+</body>
+
+</html>
+
+Delhi.html
+
+<html>
+
+<body bgcolor="gray">
+
+<font face="Arial" size="4" color="white">
+<center>DELHI</center><br>
+
+<center><b><i><tt>Delhi is the capital of our INDIA<br> and <br>More IT companies are
+
+Camped at Delhi</tt></i></b></center>
+
+<br><br>
+
+<li=New Delhi is the national capital of India.</li>
+
+<li> In December 1911 King George V of Britain decreed that the capital of British India would be moved from
+Calcutta (which is today called Kolkata) to Delhi. </li>
+
+<li Construction began in 1912 at a site about 3 miles (5 kim), south of the Delhi city centre, and the new capital
+was formally dedicated in 1931.</1i>
+
+<li> New Delhi is best known as the location of India’s national government.</li>
+
+<li> New Delhi has great historical significance as it was home to powerful people, such as the Pandavas and the
+Mughals.</li>
+
+<li> The city has many historical monuments and tourist attractions as well as lively marketplaces and great food,
+such as chaat.</li>
+
+<li> New Delhi is among the world’s most polluted cities.</li=<li>> Contributing to the smog are traffic
+congestion, heavy industry, and the lack of cleansing winds in the area.</li>
+
+<li> Although antipollution measures undertaken since the 1980s have improved the city’s air quality
+considerably, pollution continues to be a deadly problem. </li>
+
+<br><br>
+
+<a href="Indiamap.html">Home</a>
+</font>
+
+</body>
+
+</html>
+Calcutta.html
+
+<html>
+
+<body bgcolor="maroon">
+
+<font face="Times New Roman" size="4" color="pink">
+<center>KOLKATA</center><br><br>
+
+<center><b><i>Calcutta is the wealthy city in WEST BENGAL<br> and <br>It has Famous
+
+"Sunderbans Forests"</i></b></center>
+
+<hl>About:</hl>
+
+<li=Kolkata, or Calcutta as it was formerly called, is the present capital of the eastern state of West Bengal and
+one of the most densely populated cities in India.</li>
+
+<li> Kolkata became a British trading post in the last part of the 17th Century.</li=
+
+<li> The city that once served as the showpiece capital of the British power in India is noted for its colonial
+buildings including the grand Victoria Memorial </li>
+
+<li> Other important sights include the Howrah Bridge, an engineering marvel that links the city and Howrah
+Station, and the Indian Museum.</li>
+
+<li> Gateway to eastern India and home to prominent intellectuals, the city is known for its easy pace and
+intellectual prowess.</li>
+
+<br><br>
+<hl>Major Attractions:</hl>
+
+<li>Kolkata is a city of colonial architecture, museums, art galleries, traditional food, temples, music and
+theatre.</li>
+
+<li> It is an amalgamation of traditional and modern.</1i>
+
+<li> It is famous for its theatre and films.</li>
+
+<li It is the land of Rabindranath Tagore and the sound of Rabindra Sangeet can be heard from every house. </li>
+<br><br>
+
+<a href="Indiamap.html">Home</a>
+
+</font>
+
+</body>
+
+</html>
+OUTPUT:
+
+INDIA MAP
+
+lucia is the Seventh Largest country in the work] mst ! ith over 1.2 billion people, ane the must pomidons democracy in the world. India is a federal constitutional Republic with a
+parlamesicy democracy conusting of 28 states and 7 Uniae Ternmnes. :
+
+Features
+
+FPopulation - |.028,616,326 12001 consul.
+Capital Xow Dollis
+
+H
+i
+
+To view the details of states please click on the specified area in the map!!
+(Here the fixed hotspots are Tamilnadu, Deibi and Kolkata)
+
+DELHI
+
+Delhi is the capitol of our INDIA
+and
+
+More IT companies ore Casped af Delhi
+
+New Deihi is fhe naional capital of India.
+In December 1811 Nl A WICH Po JOR LOM IL) Sc cly Sfioc conm) b DL
+Construction began in 1912 at a site about 3 miles (5 km), i Le ti Er Sn i ry ee dis
+
+Alle Ee lly
+as well 8s ively markatplaces and great food, such as chant
+
+and the lack of cleansing winds.
+
+About:
+
+Major Attractions:
+
+EX.NO.03 CREATING A WEB PAGE WITH CSS
+
+AIM:
+
+To create a web page with all types of Cascading style sheets.
+
+ALGORITHM:
+
+y
+2)
+3)
+4)
+
+5)
+
+6)
+7)
+8)
+9)
+
+Open notepad or any text editor and type your HTML and CSS programs in different files.
+Here, a CSS file and 6 HTML files are required.
+
+Use appropriate tags as required in the HTML files in order to create the website.
+
+Include a reference to the external style sheet file inside the <link> element, inside the
+<head> section of an HTML page.
+
+Define internal styles within the <style> element, inside the <head> section of an HTML
+page.
+
+Define inline styles within the "style" attribute of the relevant element.
+
+Save the HTML files with .html extension.
+
+Set the names and values for the attributes in the CSS file.
+
+Save the CSS file with .css extension.
+
+10) Run the program in the Web Browser.
+
+RESULT:
+
+Thus the creation of web page with all types of Cascading style sheets was executed
+successfully.
+
+EX.NO.03 CREATING A WEB PAGE WITH CSS
+
+PROGRAM:
+
+Fontstyle.html
+
+<html>
+
+<head>
+
+<link rel="stylesheet" href="font.css">
+</head>
+
+<body>
+
+<p class="center">My text with font-arial</p>
+<p class="right">My text with font-calibre</p>
+<p class="left">My text with font-cooper</p>
+</body>
+
+</html>
+
+Font.css
+
+p.center
+
+{
+
+color:pink;
+
+text-align:center;
+
+letter-spacing: 3;
+
+font-family:arial;
+
+font-variant:small;
+
+font-weight:bold:
+
+!
+
+p.right
+
+t
+
+color:orange;
+
+text-align:right;
+
+letter-spacing: 10;
+
+font-family:calibre;
+font-variant:uppercase;
+font-weight:bold;
+
+}
+
+p.left
+{
+
+color: green;
+
+text-align: left;
+
+letter-spacing: 15;
+font-family:cooper;
+font-variant:uppercase;
+font-weight:bold;
+
+1
+
+Background.html
+
+<html>
+
+<head>
+
+<style type="text/css">
+
+body
+
+{
+background-image:url{(wt.jpg):
+background-repeat:repeat;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1 align="center">WebTechnology</h1>
+</body>
+
+</html>
+Background-image.html
+<html:
+
+<head>
+
+<style type="text/css">
+
+body
+
+{
+background-image:url(wt.jpg);
+background-color:pink;
+background-repeat:no-repeat;
+background-position:center;
+
+background-attachment: fixed;
+hl
+
+{
+background-image:url(wtl.jpg):
+background-position:right;
+color:ired;
+background-repeat:no-repeat;
+1
+
+</style>
+
+</head>
+
+<body>
+
+<hl align="center">WEB TECHNOLOGY <br></h1>
+</body>
+
+</html>
+
+Link. html
+
+<html>
+
+<head>
+
+<style type="text/css">
+a:link
+
+{
+
+color:red;
+text-decoration:underline;
+font-family:arial;
+font-size:spot;
+
+1
+
+a:visited
+
+|
+
+color:yellow;
+text-decoration:line-through;
+font-family:arial;
+font-size:spot;
+
+}
+
+azhover
+
+{
+color:blue;
+text-decoration:underline;
+font-family:arial;
+
+font-size:spot;
+
+1
+
+azactive
+
+{
+
+color:green;
+text-decoration:underline;
+font-family:arial;
+
+font-size:spot:
+
+1
+
+</style>
+
+</head>
+
+<center>
+
+<body bgcolor="pink">
+
+<a href="wt.jpg" tagrget="_blank";>Link-1</a>
+<brz=<br>
+
+<a href="wtl jpg" tagrget="_blank";>Link-2</a>
+<br><br>
+
+</body>
+
+</center>
+
+</html>
+
+Layers.html
+
+<html>
+
+<body bgcolor="white" align="left">
+
+<hl style="background-color:blue; position:relative; top:0; left:(; z-index:1; height:100;"> This is heading-
+l.</hl>
+
+<h2 style="background-color:green; position:relative; top:25; left:50; z-index:2; height: 100;"> This is heading-
+2.</h2>
+
+<h3 style="background-color:red; position:relative; top:50; left: 100; z-index:3; height: 100;"> This is heading-
+3.</h3>
+
+</body>
+</html>
+Cursor.html
+
+<html>
+
+<body>
+
+<p style="cursor:not-allowed;">NOT-ALLOWED CURSOR</p>
+<p style="cursor:progress;">PROGRESS CURSOR</p>
+<p style="cursor:wait;">WAIT CURSOR</p>
+
+<p style="cursor:zoom-in;">Z0O0M-IN CURSOR</p>
+
+<p style="cursor:zoom-out; ">ZOOM-OUT CURSOR</p>
+<p style="cursor:no-drop;">NO-DROP CURSOR </p>
+
+<p style="cursor:move;">MOVE CURSOR</p>
+
+<p style="cursor:default;">DEFAULT CURSOR</p>
+
+<p style="cursor:scroll;">SCROLL CURSOR</p>
+
+<p style="cursor:crosshair;">CROSSHAIR CURSOR</p>
+<p style="cursor:help;">HELP CURSOR</p>
+
+<body>
+
+</html>
+My test with femt-soeper
+
+TTALLOWED CURSOR
+PROGRESS CURSOR
+WAIT CURSOR
+
+ZOON-IN CUR
+
+i
+
+ZOOM
+
+IT CURSOR
+NO-DROP CURSOR
+MOVE CURSOR
+
+DEFAULT CURSOR,
+
+SCROLL CURSOR
+
+CRY
+
+ATR CURSOR
+
+HELP CURSOR
+
+EX.NO.04 DESIGNING A SIMPLE CALCULATOR USING IS
+
+AIM:
+
+To write a JavaScript to design a simple calculator to perform the following operations:
+
+i) Sum
+
+ii) Product
+iii) Difference
+iv) Quotient
+
+ALGORITHM:
+
+D
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+
+Open notepad or any text editors and type your HTML and JS programs in different files.
+Declare and Initialize the Variables.
+
+In HTML, JavaScript code is inserted between <script> and </script> tags.
+
+Set the names and values for the attributes in the input tag.
+
+Save the HTML file with .html extension.
+
+In the JS file, if and switch statements are used in the function block.
+
+Here the JavaScript HTML method used is getElementById().
+
+Save the IS file with .js extension.
+
+Run the program in the Web Browser.
+
+RESULT:
+
+Thus a simple calculator that performs sum, product, difference and quotient operations using
+JS was designed and executed successfully.
+
+EX.NO.04 DESIGNING A SIMPLE CALCULATOR USING JS
+
+PROGRAM:
+
+Calc.html
+
+<html>
+
+<script lype=text/javascript src=calc.js>
+
+</script>
+
+<body>
+
+<table border
+
+<tr >
+
+<td colspan=4><input type=text id=res size=16 onfocus="this.blur();"></td>
+</tr>
+
+<tr>
+
+<td><input type=button id=b1 value=0 size=2 onclick=f{'0")></td>
+<td><input type=button id=b2 value=1 size=2 onclick=f('1"y></td>
+<td><input type=button id=b3 value=2 size=2 onclick={("2"y></td>
+<td><input type=button id=b4 value=+ size=2 onclick=f("+')></td>
+</tr>
+
+<tr>
+
+<td><input type=button id=b5 value=3 size=2 onclick=f('3")></td>
+<td><input type=button id=b6 value=4 size=2 onclick=f('4")></td>
+<td><input type=button id=b7 value=5 size=2 onclick=f('5")=</td>
+<td><input type=button id=b8 value=- size=2 onclick=f('-") ></td>
+</tr>
+
+<tr>
+
+<td><input type=button id=h9 value=6 size=2 onclick=f('6")></td>
+<td><input type=button id=b10 value=7 size=2 onclick=f("7")></td>
+<td><input type=button id=b11 value=8 size=2 onclick={('8")></td>
+<td><input type=button id=b12 value=* size=2 onclick=f("*")></td>
+</tr>
+
+<tr>
+
+<td><input type=button id=b13 value=9 size=2 onclick=f('9")></td>
+<td><input type=button id=b14 value=+/- size=2 onclick=f(--")></td>
+
+<td><input type=button id=b15 value='='size=2 onclick=f('=")></td>>
+<td><input type=button id=b16 value="" size=2 onclick={('/")></td>
+
+</tr>
+
+<tr>
+
+<td colspan=4 ><input type=button value=Clear size=16 onclick=f{"c')></td>
+<Ar=
+
+</table>
+
+<body>
+
+</html>
+
+Calc.js
+
+function f(d)
+
+{
+
+if(d=="c")
+
+{
+
+document. getElementByld('res’).value="";
+return;
+
+}
+
+res=document.getElementByld( res’). value;
+if(res==0 && d==0)
+
+return;
+
+ifd=="+'|| d=" || d=" || d=")
+
+{
+
+opr=d;
+
+num=parseFloat(res);
+
+document. getElementByld('res’).value=d;
+return;
+
+1
+
+if(d=="='
+
+{
+
+num |=parseFloat(res);
+
+switch{opr)
+
+{
+
+case +": ans=num+num 1; break;
+
+case -": ans=num-numl; break;
+case "'; ans=num*num]1; break:
+
+case '/" ans=parselnt(num/muml); break;
+
+}
+document.getElementByld('res’).value=ans;
+return;
+
+1
+
+if(d=="--")
+
+{
+document.getElementByld('res").value®=-1;
+return;
+
+1
+if(lisNaN(document.getElementByld('res'). value))
+document.getElementByld('res’).value+=d:
+else
+
+document. getElement Byld('res’).value=d;
+
+}
+I
+
+-
+
+|
+SUM:
+
+OUTPUT:
+
+DIFFERENCE:
+
+PRODUCT:
+
+QUOTIENT:
+
+EX.NO.05 VALIDATION OF WEB FORM USING DHTML
+
+AIM:
+
+To create client-side scripts for validating web form controls using DHTML.
+
+ALGORITHM:
+
+y
+
+Open notepad or any text editors and type your HTML program.
+
+2) Here, 2 HTML files are needed and use appropriate tags as required to create the web form.
+
+3) JavaScript code is inserted between <script> and </script> tags in HTML.
+
+4) Create a form by including all the elements of java script.
+
+5) Create a button in such a way that when the button is clicked the form has to be validated
+(i.e. it has to check whether all fields in the form are filled and the data entered are valid).
+
+6) Save the files with .html extension.
+
+7) Run the program in the Web Browser.
+
+RESULT:
+
+Thus a client-side scripts for validating web form controls using DHTML was created and
+executed successfully.
+
+EX.NO.05 VALIDATION OF WEB FORM
+
+PROGRAM:
+
+Login.html
+
+<html>
+
+<head>
+
+<title> LOGIN FORM VALIDATION</title>
+
+<script>
+
+function validate()
+
+{
+
+var username=document.getElementByld("username").value;
+var password=document.getElementByld( "password" ).value;
+if(username==null|jusername=—=""){
+
+alert("Please enter the username");
+
+return false;
+
+1
+
+if(password==null||password==""){
+
+alert("Please enter the Password");
+
+return false;
+
+1
+
+alert("Login Successful”);
+
+1
+
+</script>
+
+</head>
+
+<bodybgcolor="pink">
+
+<font color="red"><h1 align="center">LOGIN FORM VALIDATION</h1></font>
+<form name="f1" method="post">
+
+<label>User Name</label>
+
+<input type="text" name="username" id="username"><br>
+<label>Password-</label>
+
+<input type="password" name="password" id="password"><br>
+<input type="button" value="Login" onclick="validate()">&nbsp&nbsp
+<input type="reset" name="r1" value="RESET">
+
+</form>
+</body>
+</html>
+
+Registration.html
+
+<html>
+
+<head>
+
+<script type="text/javascript">
+
+function checkfield(){
+if(document.regfrm.fname.value.length=—=0){
+alert("fill firstname field")
+document.regfrm. mame. locus():
+
+return;
+
+1
+if(document.regfrm.Iname.value.length==0){
+alert("fill lastname field")
+document.regfrm.Iname.focus();
+
+return;
+
+}
+if(document.regfrm.eid.value.length==0){
+alert("fill email-id")
+document.regfrm.eid.focus();
+
+return;
+
+1
+if(document.regfrm.zip.value.length==0){
+alert("fill zip field")
+document.regfrm.zip.focus();
+
+return;
+
+1
+if(document.regfrm.phonenumber.value.length==0){
+alert("fill phone number field")
+document.regfrm. phonenumber.focus();
+return;
+
+}
+
+elsef
+
+alert("Succesfull");
+1
+
+}
+
+</script>
+
+</head>
+
+<body>
+
+<center>
+
+<form name="regfrm" method="post">
+
+<p align="center">
+
+<b>
+
+<iz<font face="monotype corsiva" color="black" size="7">
+<u>Personal Registration Form</u>
+
+</font>
+
+</i>
+
+</b>
+
+</p>
+
+<p align="center">
+
+<font face="arial" color="bluishgreen" >
+
+<b>You must complete fields marked with </b></font>
+<font color="bluishgreen" face="times newroman">
+*(star)</font=</p>
+
+<table border="8" cellpadding="0" cellspacing="0" width="73%" height="10">
+<tr><td width="43%" height="22" >Firstname</font></td>
+<td width="57%" height="22">
+
+<input type="text" name="fname" size="20">
+
+<font color="red"> * </font></td>
+
+</tr>
+
+<tr>
+
+<td width="43%" height="22" >
+
+<font face="timesnew roman" size="4">
+
+Lastname
+
+</font>
+
+</td>
+
+<td width="57%" height="22">
+
+<input type="text" name="Iname" size="20">
+<font color="red"> * </font>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="43%" height="22" >
+
+<font face="timesnewroman" size="4">
+Industry
+
+</font>
+
+<td>
+
+<td width="57%" height="22">
+
+<font face="timesnewroman"size="20" >
+
+Li
+
+<select size="1" name="industry">
+
+<option value>Choose..</option>
+
+<option value="Academic">Academic</option>
+<option value="Corporate">Corporate</option>
+<option value="Financial">Financial</option>
+<option value="Government">Government</option=
+<option value="Military">Military</option>
+<option value="Research">Research</option=>
+<option value="Technology">Technology</option>
+<option value="Transportation">Transportation</optionz
+</select></font>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="43%" height="22" >
+
+<font face="timesnewroman" size="4">
+
+Email-id
+
+</font>
+
+</td>
+
+<td width="57%" height="22">
+
+<input type="text" name="eid" size="20">
+
+<font color="red"> * </font>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="43%" height="22" >
+
+<font face="timesnewroman" size="4">
+Country
+
+</font>
+
+</td>
+
+<td width="57%" height="38">
+
+<font face="timesnewroman” size="20">
+<select size="1" name="country">
+
+<option value>Chaoose..</option>
+
+<option value="IND">INDIA</option>
+<option value="US">AMERICA</option>
+<option value="JPN">JAPAN</option>
+<option value="AUS">AUSTRALIA</option>
+<option value="FRN">FRANCE</option>
+</select></font>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="43%" height="22" >
+
+<font face="timesnewroman" size="4">
+Organization
+
+</font>
+
+</td>
+
+<td width="57% " height="22">
+
+<input type="text" name="org" size="20"=>
+</td>
+
+</tr>
+
+<tr
+
+<td ><font face="timesnewroman" size="4">
+Address
+
+</font>
+
+</td>
+<td>
+
+<textarea rows="2" cols="16"></textarea>
+</td>
+
+</tr>
+
+<ir>
+
+<td width="43%" height="22" >
+
+<font face="timesnewroman" size="4">
+Town/city
+
+</font>
+
+</td>
+
+<td width="57%" height="22">
+
+<input type="text" name="city" size="20">
+</td>
+
+</tr>
+
+<tr>
+
+<td width="43%" height="22" >
+
+<font face="timesnewroman" size="4">
+State
+
+</font>
+
+</td>
+
+<td width="57%" height="38">
+
+<input type="text" name="state" size="20">
+</td>
+
+</tr>
+
+<tr>
+
+<td width="43%" height="38" >
+
+<font face="timesnewroman" size="4">
+zip/Postalcode
+
+</font>
+
+</td>
+
+<td width="57%" height="38">
+
+<input type="text" name="zip" size="20">
+<font color="red">
+
+#
+</font>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="43%" height="38" >
+
+<font face="timesnewroman" size="4">
+Phonenumber
+
+</font>
+
+<td>
+
+<td width="57%" height="38">
+
+<input type="text" name="phonenumber" size="20">
+<font color="red">
+
+*
+
+</font>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center"><font face="timesnewroman" color="bluishgreen">
+<input type="radio" name="submit">
+
+I agree terms and Conditions<br>
+
+<input type="button" value="submit" name="b1" onclick="checkfield()">
+<input type="reset" value="cancel" name="b2">
+</p>
+
+</form>
+
+</center>
+
+</body>
+
+</html>
+LOGIN FORM VALIDATION
+
+RESET
+
+mfgons
+
+Logn [RESET
+
+Personal Registration Form
+
+You must complete fields marked with *
+
+Ty
+
+industry
+{Email-id
+
+ounry
+
+Choosa._
+
+gi
+
+Address
+
+ova city
+
+ate
+
+ip Postalcode
+
+Phonerumbes
+
+Address
+
+ip Posmlcode
+
+[fPhoveummber
+
+astname
+
+Choos w
+
+|
+
+Ee Postalcode
+
+25001
+
+Jrooncnees
+
+Mase
+
+Lagos terms ned Coudiz
+sur || cancel
+
+| I
+
+astname
+
+hasty -
+Evils mg :
+TR
+Address
+| EE:
+lle Taming:
+
+kip Postalcode
+
+[Phoneauber
+
+Ee
+
+® {grog terms and €
+subent | cancwt
+
+Find the Factorial of a Number(PHP/JavaScript)
+
+Display the Multiplication Table(PHP/JavaScript)
+
+to Check Armstrong Number(PHP/JavaScript)
+
+to Find the Sum of Natural Numbers(PHP/JavaScript)
+
+to Check Whether a String is Palindrome or Not(PHP/JavaScript)
+
+to Reverse a String(PHP/JavaScript)
+
+<IDOCTYPE html>
+<html>
+<head>
+<title>Factorial Calculator</title>
+<script>
+function calculateFactorial() {
+var number = document.getElementByld("number").value;
+var result = 1;
+if (Inumber || isNaN(number) || number <= 0) {
+document.getElementByld("result").innerHTML = "Invalid input. Please
+enter a positive integer.";
+
+return;
+
+;
+
+for (var i = 2; i <= number; i++) {
+result ¥=1;
+H
+document.getElementByld("result").innerHTML = "Factorial of " + number
++ "is: " + result;
+}
+</script>
+</head>
+<body>
+<h1>Factorial Calculator</h1>
+<label for="number">Enter a number:</label>
+<input type="text" id="number">
+<button onclick="calculateFactorial()">Calculate Factorial</button>
+<p id="result"></p>
+</body>
+</html>
+
+OUTPUT:
+
+Factorial Calculator
+
+Enter a number: 5 || Calculate Factorial
+
+Factorial of 5 1s: 120
+
+<IDOCTYPE html>
+<html>
+<head>
+<title>Multiplication Table</title>
+<script>
+function generateTable() {
+var rows = parselnt(document.getElementByld("rows").value);
+var columns = parselnt(document.getElementById("columns").value);
+var table = document.getElementByld("table");
+table.innerHTML ="";
+for (vari= 1; 1 <=rows; i++) {
+var row = document.createElement("tr");
+for (var j = 1; j <= columns; j++) {
+var cell = document.createElement("td");
+cell.textContent =i * J;
+row.appendChild(cell);
+h
+table.appendChild(row);
+Hh
+</script>
+</head>
+<body>
+<h1>Multiplication Table Generator</h1>
+<label for="rows">Rows:</label>
+<input type="number" id="rows">
+<label for="columns">Columns:</label>
+<input type="number" id="columns">
+<button onclick="generateTable()">Generate Table</button>
+<table id="table"></table>
+</body>
+</html>
+OUTPUT:
+
+Multiplication Table Generator
+
+Rows: [5 | Columns: 10 || Generate Table
+1234567 89 10
+24 6 8 101214161820
+36 9 12151821242730
+48 1216202428323640
+5101520253035404550
+
+<!DOCTYPE html>
+<html>
+<head> <title>Armstrong Number Checker</title>
+<script>
+function isArmstrongNumber() {
+var number = parselnt(document.getElementByld("number").value);
+var originalNumber = number;
+var sum = 0;
+if (Inumber || isNaN(number) || number <= 0) {
+document.getElementByld("result").textContent = "Invalid input. Please
+enter a positive integer.";
+return; }
+while (number > 0) {
+var digit = number % 10;
+sum += digit ** 3;
+number = Math.floor(number / 10);}
+if (sum == originalNumber) {
+document.getElementByld("result").textContent = originalNumber + " is
+an Armstrong number."; }
+else {
+document.getElementByld("result").textContent = originalNumber + " is
+not an Armstrong number.";} }
+</script>
+</head>
+<body>
+<h1>Armstrong Number Checker</h1>
+<label for="number">Enter a number:</label>
+<input type="number" id="number">
+<button onclick="isArmstrongNumber()">Check</button>
+<p id="result"></p>
+</body>
+</html>
+OUTPUT:
+
+Armstrong Number Checker
+
+Enter a number: [153 | check
+
+153 is an Armstrong number.
+
+<!IDOCTYPE html>
+<html>
+<head> <title>Sum of Natural Numbers</title>
+<script>
+function calculateSum() {
+var number = parselnt(document.getElementByld("number").value);
+var sum = 0;
+if (Inumber || isNaN(number) || number <= 0) {
+document.getElementByld("result").textContent = "Invalid input. Please
+enter a positive integer.";
+return;
+h
+for (var i= 1; 1 <= number; i++) {
+sum +=1i;}
+document.getElementByld("result”).textContent = "Sum of natural numbers
+up to " + number + " is: " + sum;
+h
+</script> </head>
+<body>
+<h1>Sum of Natural Numbers</h1>
+<label for="number">Enter a number: </label>
+<input type="number" id="number">
+<button onclick="calculateSum()">Calculate Sum</button>
+<p id="result"></p>
+</body>
+</html>
+
+OUTPUT:
+
+Sum of Natural Numbers
+
+Enter a number: [10 I[ Calculate Sum |
+
+Sum of natural numbers up to 10 is: 55
+
+<IDOCTYPE html>
+<html>
+<head><title>Palindrome Checker</title>
+<script>
+function checkPalindrome() {
+var input = document.getElementBylId("input").value.toLowerCase();
+var reversed ="";
+var cleanedInput = input.replace(/[*a-zA-Z0-9]/g, "");
+for (var i = cleanedInput.length - 1; 1 >= 0; i--) {
+reversed += cleanedInput[i];
+t
+if (cleanedInput == reversed) {
+document.getElementByld("result").textContent = "\"" + input + "\" is a
+palindrome."
+1 else |
+document.getElementByld("result").textContent = "\"" + input + "\" is not
+
+a palindrome.";
+
+}
+
+1
+i
+
+</script> </head>
+<body>
+<hl>Palindrome Checker</h1>
+<label for="input">Enter a string:</label>
+<input type="text" id="input">
+<button onclick="checkPalindrome()">Check</button>
+<p id="result"></p>
+</body>
+</html>
+
+OUTPUT:
+
+Palindrome Checker
+
+Enter a string: | madam Check |
+
+"madam" is a palindrome.
+
+<!IDOCTYPE html>
+<html>
+<head>
+<title>String Reversal</title>
+<script>
+function reverseString() {
+var input = document. getElementByld("input").value;
+var reversed ="";
+for (vari =input.length - 1;1>=0;i--) {
+reversed += input.charAt(i);
+}
+document.getElementByld("result").textContent = "Reversed string: " +
+reversed;
+}
+</script>
+</head>
+<body>
+<h1>String Reversal</h1>
+<label for="input">Enter a string:</label>
+<input type="text" id="input">
+<button onclick="reverseString()">Reverse</button>
+<p id="result"></p>
+</body>
+</html>
+
+OUTPUT:
+
+String Reversal
+
+Enter a string: [HELLO | Reverse
+
+Reversed string: OLLEH
+
+Find the Factorial of a Number(PHP/JavaScript)
+
+Display the Multiplication Table(PHP/JavaScript)
+
+to Check Armstrong Number(PHP/JavaScript)
+
+to Find the Sum of Natural Numbers(PHP/JavaScript)
+
+to Check Whether a String is Palindrome or Not(PHP/JavaScript)
+
+to Reverse a String(PHP/JavaScript)
+
+<?php
+function factorial($n) {
+if(Sn==0|$n==1) {
+return 1;
+1 else {
+return $n * factorial($n - 1);
+}
+}
+$number = readline("Enter a number: ");
+$result = factorial($number);
+echo "The factorial of $number is: $result”;
+I>
+OUTPUT:
+php /tmp/z00e8zfQ0b.php
+Enter a number: 5
+The factorial of 5 is: 120
+
+MULTIPLICATION TABLE USING PHP
+<?php
+$tableSize = 10;
+echo "<h2>Multiplication Table</h2>";
+echo "<table border='1">";
+for (Srow = 1; $row <= $tableSize; $row++) {
+echo "<tr>";
+for (Scol = 1; $col <= $tableSize; $col++) {
+echo "<td>". ($row * Scol) . "</td>";
+h
+
+echo "</tr>";
+
+}
+echo "</table>";
+Fo»
+
+OUTPUT:
+
+Multiplication Table
+
+I I |
+I I |
+I I |
+I I [
+I I |
+I I |
+I I |
+I I |
+I I |
+I | |
+
+ARMSTRONG NUMBER USING PHP:
+<?php
+function isArmstrongNumber($number) {
+$originalNumber = $number;
+$result =0;
+$numDigits = strlen((string)$number);
+while ($number > 0) {
+$digit = Snumber % 10;
+$result += pow($digit, SnumDigits);
+$number = (int)($Snumber / 10),
+H
+
+return $originalNumber === $result;
+}
+$number = readline("Enter a number: ");
+if (lis_numeric($number)) {
+echo "Invalid input. Please enter a valid number.";
+exit();
+}
+$number = intval($number);
+if (isArmstrongNumber($number)) {
+echo "$number is an Armstrong number.";
+1 else {
+echo "$number is not an Armstrong number.";
+
+;
+
+T=
+
+OUTPUT:
+
+php /tmp/z00e8zQ0b. php
+Enter a number: 153
+
+153 is an Armstrong number.
+
+SUM OF NATURAL NUMBERS USING PHP:
+<?php
+$limit = readline("Enter the limit: ");
+if (lis numeric($limit) || $limit <= 0) {
+echo "Invalid input. Please enter a positive integer.";
+exit();
+i
+$limit = intval($limit);
+$sum = 0;
+for ($i = 1; $i <= $limit; $i++) {
+$sum += $i;
+}
+
+echo "The sum of natural numbers up to $limit is: $sum";
+r>
+
+OUTPUT:
+
+php /tmp/z00e8zTQ0b.php
+
+Enter the limit: 10
+
+The sum of natural numbers up to 10 is: 55
+
+PALINDROME OR NOT USING PHP:
+<?php
+function isPalindrome($string) {
+$string = strtolower(str_replace('', ", $string));
+$reverseString = strrev($string);
+return $string == S$reverseString;
+}
+$input = readline("Enter a string: ");
+if (isPalindrome($input)) {
+echo "$input is a palindrome.";
+} else {
+echo "$input is not a palindrome.";
+
+i
+
+>
+OUTPUT:
+php /tmp/z00e8zTQOb.php
+
+Enter a string: MADAM
+MADAM is a palindrome.
+
+<?php
+function reverseString($string) {
+$length = strlen($string);
+$reversedString =";
+for ($i = $length - 1; $i >= 0; $i--) {
+SreversedString = Sstring[$i];
+}
+return $reversedString;
+;
+$input = readline("Enter a string: ");
+$reversedString = reverseString($input);
+
+echo "Reversed string: " . $reversedString;
+>
+
+OUTPUT:
+
